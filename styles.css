@@ -8,6 +8,5 @@
 }
 #green{
 	background-color:green;
-	border-width:1px;
-	border-color:green;
+	border-width:1px solid yellow;
 }
